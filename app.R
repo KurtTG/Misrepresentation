@@ -2,8 +2,6 @@
 
 #
 
-# Gist: https://gist.github.com/anonymous/9da10c816963c91020fc18a7d557268b
-
 
 # A Shiny Program for illustrating the strategic logic of 
 # a subordinate actor choosing to reveal (R), conceal (C), 
